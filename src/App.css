@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", sans-serif;
+  }
+  
+  .bg-dark {
+    background-color: #333;
+  }
+  
+  .bg-light {
+    background-color: #4e62e3;
+  }
+  
+  .text-danger {
+    color: rgb(31, 7, 210);
+  }
+  
